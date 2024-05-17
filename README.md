@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 Local, docker, k8s
 
 ## Copyright
+
+## How to contribute
+
+Referring git docs
