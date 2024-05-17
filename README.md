@@ -11,3 +11,7 @@ This is demo project
 Sample website with plenty of files for demos
 
 ## Deployment
+
+Local, docker, k8s
+
+## Copyright
