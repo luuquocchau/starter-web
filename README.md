@@ -9,3 +9,5 @@ This is demo project
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment
