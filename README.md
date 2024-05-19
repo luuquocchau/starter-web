@@ -17,6 +17,8 @@ Local, docker, k8s
 
 ## Copyright
 
+luunt, all rights reserved
+
 ## How to contribute
 
 Referring git docs
